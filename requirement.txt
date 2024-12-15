@@ -1,1 +1,8 @@
-
+pandas
+matplotlib
+geopandas
+streamlit
+plotly
+folium
+streamlit_folium
+warnings
