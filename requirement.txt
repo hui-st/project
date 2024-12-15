@@ -2,7 +2,7 @@ pandas
 matplotlib
 geopandas
 streamlit
-plotly
+plotly.express
 folium
 streamlit_folium
 warnings
